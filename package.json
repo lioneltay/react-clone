@@ -1,0 +1,19 @@
+{
+  "name": "my-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "react-scripts-ts": "2.15.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/ramda": "^0.25.28",
+    "typescript": "^2.8.3"
+  }
+}
